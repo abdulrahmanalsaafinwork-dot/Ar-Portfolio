@@ -1,0 +1,24 @@
+{
+  "framework": "nextjs",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/Professional_Sales_Inventory_Analyst.xlsx",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Professional_Sales_Inventory_Analyst.xlsx\""
+        }
+      ]
+    },
+    {
+      "source": "/data/(.*).csv",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, must-revalidate"
+        }
+      ]
+    }
+  ]
+}

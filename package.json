@@ -1,0 +1,75 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "author": {
+    "name": "Abdulrahman H. Alsaafin",
+    "email": "abdulrahmahman.alsaafin.work@gmail.com",
+    "url": "https://github.com/abdulrahmanalsaafinwork-dot"
+  },
+  "description": "Abdulrahman H. Alsaafin - Full-Stack Developer & Analyst Portfolio.",
+  "keywords": [
+    "react",
+    "next",
+    "nextjs",
+    "html",
+    "css",
+    "javascript",
+    "js",
+    "modern-ui",
+    "modern-ux",
+    "portfolio",
+    "framer-motion",
+    "3d-website",
+    "particle-effect"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanidhyy/modern-portfolio.git"
+  },
+  "homepage": "https://github.com/sanidhyy/modern-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/modern-portfolio/issues",
+    "email": "sanidhya.verma12345@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "^13.4.4",
+    "@supabase/supabase-js": "^2.109.0",
+    "@thesvg/react": "^3.4.1",
+    "framer-motion": "^10.12.16",
+    "next": "14.1.1",
+    "react": "18.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.7.0",
+    "react-tsparticles": "^2.9.3",
+    "swiper": "^9.4.0",
+    "tailwind-scrollbar": "^3.0.4",
+    "tsparticles": "^2.9.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
