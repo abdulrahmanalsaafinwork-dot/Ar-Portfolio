@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Current_Stock,Unit_Cost,Stock_Value,Units_Sold,Avg_Monthly_Sales,Est_Months_Cover,Risk
+P001,Nike Air Force 1,Sneakers,35,3200,112000.00,67,7.4,4.70,OK
+P002,Adidas Samba OG,Sneakers,28,3500,98000.00,72,8.0,3.50,OK
+P003,New Balance 530,Sneakers,22,3800,83600.00,70,7.8,2.83,OK
+P004,Vans Old Skool,Sneakers,40,2200,88000.00,73,8.1,4.93,OK
+P005,Puma Suede Classic,Sneakers,31,2100,65100.00,67,7.4,4.16,OK
+P006,Nike Dunk Low,Sneakers,18,3900,70200.00,50,5.6,3.24,OK
+P007,Adidas Campus 00s,Sneakers,25,3300,82500.00,55,6.1,4.09,OK
+P008,Converse Chuck 70,Sneakers,33,2800,92400.00,76,8.4,3.91,OK
+P009,New Balance 550,Sneakers,16,3600,57600.00,69,7.7,2.09,OK
+P010,Vans Knu Skool,Sneakers,20,2600,52000.00,62,6.9,2.90,OK
+P011,Nike Tech Cap,Accessories,55,850,46750.00,66,7.3,7.50,OK
+P012,Adidas Waist Bag,Accessories,42,900,37800.00,65,7.2,5.82,OK

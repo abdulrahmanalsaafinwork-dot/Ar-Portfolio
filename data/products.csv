@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Brand,Unit_Cost,Selling_Price,Current_Stock
+P001,Nike Air Force 1,Sneakers,Nike,3200,4995,35
+P002,Adidas Samba OG,Sneakers,Adidas,3500,5495,28
+P003,New Balance 530,Sneakers,New Balance,3800,5995,22
+P004,Vans Old Skool,Sneakers,Vans,2200,3995,40
+P005,Puma Suede Classic,Sneakers,Puma,2100,3695,31
+P006,Nike Dunk Low,Sneakers,Nike,3900,6295,18
+P007,Adidas Campus 00s,Sneakers,Adidas,3300,5295,25
+P008,Converse Chuck 70,Sneakers,Converse,2800,4595,33
+P009,New Balance 550,Sneakers,New Balance,3600,5795,16
+P010,Vans Knu Skool,Sneakers,Vans,2600,4495,20
+P011,Nike Tech Cap,Accessories,Nike,850,1495,55
+P012,Adidas Waist Bag,Accessories,Adidas,900,1595,42
